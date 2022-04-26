@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/MUI_Blog/static/css/main.073c9b0a.css",
-    "main.js": "/MUI_Blog/static/js/main.0ab20fef.js",
-    "static/js/787.d62358d4.chunk.js": "/MUI_Blog/static/js/787.d62358d4.chunk.js",
-    "static/media/logo.svg": "/MUI_Blog/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/MUI_Blog/static/css/main.e6c13ad2.css",
+    "main.js": "/MUI_Blog/static/js/main.6b437284.js",
     "index.html": "/MUI_Blog/index.html",
-    "main.073c9b0a.css.map": "/MUI_Blog/static/css/main.073c9b0a.css.map",
-    "main.0ab20fef.js.map": "/MUI_Blog/static/js/main.0ab20fef.js.map",
-    "787.d62358d4.chunk.js.map": "/MUI_Blog/static/js/787.d62358d4.chunk.js.map"
+    "main.e6c13ad2.css.map": "/MUI_Blog/static/css/main.e6c13ad2.css.map",
+    "main.6b437284.js.map": "/MUI_Blog/static/js/main.6b437284.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.0ab20fef.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.6b437284.js"
   ]
 }
